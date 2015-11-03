@@ -1,4 +1,4 @@
-# iOS-Swift-Basic-Interaction-Chen-Wei_Ming
+# iOS-Swift-Basic-Interaction-Chen-Wei-Ming
 Creating basic interaction
 
 ## Dismissing the keyboard with delegation
